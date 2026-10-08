@@ -10,7 +10,7 @@ Project ini dibuat untuk melatih proses input, pengecekan, standardisasi, dan va
 4. Menghitung nilai total transaksi.
 5. Membuat ringkasan data transaksi menggunakan Microsoft Excel.
 
-#### Dataset
+#### Dataset:
 Dataset terdiri dari 100 data transaksi penjualan dengan beberapa informasi berikut:
 |Kolom|Keterangan|
 |---|---|
@@ -26,14 +26,17 @@ Dataset terdiri dari 100 data transaksi penjualan dengan beberapa informasi beri
 |Status Pesanan|Status transaksi|
 |Total Harga|Nilai total transaksi|
 
-#### Proses yang Dilakukan
+#### Proses yang Dilakukan:
 1. Data Entry <br> Memindahkan data dari raw data ke dalam tabel Excel yang terstruktur
 2. Data Cleaning <br> Melakukan standardisasi terhadap beberapa elemen data, seperti: <br> - Format tanggal <br> - Nama customer <br> - Nama produk <br> - Kategori <br> - Metode pembayaran <br> - Status pesanan <br> - Nomor telepon <br> - Format angka
 3. Data Validation <br> Melakukan pengecekan terhadap: <br> - Data kosong <br> - Data duplikat <br> -Format data yang tidak sesuai <br> - Ketidakkonsistenan penulisan <br> - Nilai numerik yang tidak sesuai
 4. Perhitungan <br> Menambahkan kolom Total Harga
 5. Summary <br> Membuat ringkasan data yang mencakup: <br> - Total transaksi <br> - Total quantity <br> - Total penjualan <br> - Jumlah transaksi berdasarkan status pesanan
 
-
+#### Preview Hasil:
+![Dashboard](DataEntry.png)
+![Dashboard](BeforeAfter.png)
+![Dashboard](Summary.png)
 
 
 
